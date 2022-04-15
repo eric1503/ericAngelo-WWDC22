@@ -12,7 +12,7 @@ The world seems to be very obsessed with ancient Egypt. As one of the earliest h
 
 This draws me to educate myself to learn how to read hieroglyph text and characters. This also sparks my idea to create this project for people that are curious about this topic as well, for people who want to learn hieroglyphs.
 
-Everything starts with a small step, we begin with their basic alphabet that was represented by their wordmarks. Using the most effective method that my mom used to teach me the Mandarin language, **flashcard**" that promotes studying through active recall, which is one of the practices through which our brains learn most effectively. You will learn all the alphabet in a shuffled way. You can also challenge yourself to recall what you have been learning in the "Guess zone"
+Everything starts with a small step, we begin with their basic alphabet that was represented by their wordmarks. Using the most effective method that my mom used to teach me the Mandarin language, "**flashcard**" that promotes studying through active recall, which is one of the practices through which our brains learn most effectively. You will learn all the alphabet in a shuffled way. You can also challenge yourself to recall what you have been learning in the "Guess zone"
 
 The tech stack that I have been using was Figma to design the layout and UI of the app, and code it with SwiftUI.
 
