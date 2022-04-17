@@ -20,9 +20,9 @@ The tech stack that I have been using was Figma to design the layout and UI of t
 To experience "Hieroglyphic Alphabet Flashcard" yourself, download the zipped .playgroundbook file in this repository, and open it using Xcode 13.3 on macOS 12.3
 
 ## Assets
-Credit to Scholastic (http://images.scholastic.co.uk/assets/a/65/d7/jet-pb-a-9788.pdf) for the hieroglyphs alphabet asset
-Unsplash for the images
-And free version license of mockup by ls.graphics
+- Credit to Scholastic (http://images.scholastic.co.uk/assets/a/65/d7/jet-pb-a-9788.pdf) for the hieroglyphs alphabet asset
+- Unsplash for the images
+- And free version license of mockup by ls.graphics
 
 ## Author
 Hi, I'm Eric Angelo, an 18 years old self-taught designer with 1+ years experiences in product design industries and specialized in app UI design, and one of the Apple Developer Academy Indonesia Cohort 5 participant. On the first mini challenge, me and my group friends crafted an app called Readify, an app that helps college student to build and maintain their reading habit journey. This submission was my very first time of my life to code on my own using SwiftUI after watching a lot of Swift tutorials on Youtube videos, and of course with the help of StackOverFlow 😂.
