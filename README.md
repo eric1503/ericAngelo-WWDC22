@@ -6,9 +6,8 @@ WWDC 2022 Swift Student Challenge Submission
 ![WWDC2022 cover](https://github.com/eric1503/ericAngelo-WWDC22/blob/main/thumbnail%20(1).png)
 
 ## Introduction
-“Things are hidden — in pyramids, in tombs, in sarcophagi. There are false doors. **Even hieroglyphs require a code to understand them**.” says Jan-Lodewijk Grootaers, MIA’s curator of African art notes.
 
-The world seems to be very obsessed with ancient Egypt. As one of the earliest human civilizations, their artwork, culture, temples, mummies, and all their unknown secrets have drawn my interest to it since childhood. One of many things that I am really curious about is the hieroglyph (sacred carving). I mean, they use the combination of "bird" and "eye", or even something like "snake" icons to communicate!!!
+The world seems to be very obsessed with ancient Egypt. As one of the earliest human civilizations, their artwork, culture, temples, mummies, and all their unknown secrets have drawn my interest since childhood, I once play an Egyptian themed game when I was 10 years old using my PlayStation 2, there was a mission where I entered a pyramid and solve a blocked puzzle with hieroglyphic alphabet embossed on it, I tried to solve it and when the puzzle was finished, they reveal the abstract wordmark and translate it to the English alphabet. This is the moment when I was amazed and interested to know more about the mystery of the Egyptian alphabet. I mean, ancient Egyptian used the combination of "bird" and "eye", or even something like "snake" icons to communicate!!!
 
 This draws me to educate myself to learn how to read hieroglyph text and characters. This also sparks my idea to create this project for people that are curious about this topic as well, for people who want to learn hieroglyphs.
 
