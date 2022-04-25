@@ -16,7 +16,7 @@ Everything starts with a small step, we begin with their basic alphabet that was
 The tech stack that I have been using was Figma to design the layout and UI of the app, and code it with SwiftUI.
 
 ## Installation
-To experience "Hieroglyphic Alphabet Flashcard" yourself, download the zipped .playgroundbook file in this repository, and open it using Xcode 13.3 on macOS 12.3
+To experience "Hieroglyphic Alphabet Flashcard" yourself, download the zipped .swiftpm file in this repository, and open it using Xcode 13.3 on macOS 12.3
 
 ## Assets
 - Credit to Scholastic (http://images.scholastic.co.uk/assets/a/65/d7/jet-pb-a-9788.pdf) for the hieroglyphs alphabet asset
